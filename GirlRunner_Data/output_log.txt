@@ -1,0 +1,60 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon(TM) HD8490 (ID=0x6771)
+    Vendor:   ATI
+    VRAM:     1008 MB
+    Driver:   15.201.1151.1008
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Unity\GirlRunner_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Unity\GirlRunner_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Unity\GirlRunner_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Unity\GirlRunner_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Unity\GirlRunner_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Unity\GirlRunner_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Unity\GirlRunner_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Unity\GirlRunner_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\Unity\GirlRunner_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading F:\Unity\GirlRunner_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.545 seconds
+Platform assembly: F:\Unity\GirlRunner_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Unity\GirlRunner_Data\Managed\System.dll (this message is harmless)
+desktop: 1024x768 60Hz; virtual: 1024x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.023572 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 820 -> priority: 1 
+  Thread -> id: 1b68 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.510255 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 819.
+Total: 0.440095 ms (FindLiveObjects: 0.053806 ms CreateObjectMapping: 0.028613 ms MarkObjects: 0.348655 ms  DeleteObjects: 0.008708 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.679893 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 819.
+Total: 0.268100 ms (FindLiveObjects: 0.039499 ms CreateObjectMapping: 0.019905 ms MarkObjects: 0.202164 ms  DeleteObjects: 0.006220 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.665897 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 819.
+Total: 0.304179 ms (FindLiveObjects: 0.049763 ms CreateObjectMapping: 0.020838 ms MarkObjects: 0.225801 ms  DeleteObjects: 0.007153 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.687046 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 819.
+Total: 0.439162 ms (FindLiveObjects: 0.074645 ms CreateObjectMapping: 0.029236 ms MarkObjects: 0.327194 ms  DeleteObjects: 0.007153 ms)
+
+Scene 'Menu' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 137)
+
